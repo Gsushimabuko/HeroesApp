@@ -1,0 +1,22 @@
+<h1>Listado de héroes</h1>
+
+<mat-divider></mat-divider>
+<br>
+
+<div fxLayout="row wrap"
+fxLayout.xs="column"
+fxLayoutAlign="center"
+
+>
+    
+    <!--Porcentaje del row-->
+    <div fxFlex="15" 
+        fxFlex.sm="30"
+     *ngFor="let heroe of heroes">
+
+    <app-heroe-tarjeta [heroe]="heroe"></app-heroe-tarjeta>   
+
+    </div>
+
+    
+</div>

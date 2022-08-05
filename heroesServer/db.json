@@ -1,0 +1,46 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "John Doe",
+      "email": "john.due@gmail.com"
+    }
+  ],
+  "heroes": [
+    {
+      "id": "hero-deku",
+      "superhero": "Deku",
+      "alter_ego": "Izuku Midoriya",
+      "first_appearance": "EP - 01",
+      "escuela": "UA"
+    },
+    {
+      "id": "hero-bakugo",
+      "superhero": "Bakugo",
+      "alter_ego": "Katsuki Bakugo",
+      "first_appearance": "EP - 01",
+      "escuela": "UA"
+    },
+    {
+      "id": "hero-all-might",
+      "superhero": "All Might",
+      "alter_ego": "Toshinori Yagi ",
+      "first_appearance": "EP - 01",
+      "escuela": "UA"
+    },
+    {
+      "id": "hero-uraraka",
+      "superhero": "Uravity",
+      "alter_ego": "Ochaco Uraraka ",
+      "first_appearance": "EP - 03",
+      "escuela": "UA"
+    },
+    {
+      "id": "hero-jack",
+      "superhero": "Earphone Jack",
+      "alter_ego": "Kyoka Jiro",
+      "first_appearance": "EP - 05",
+      "escuela": "UA"
+    }
+  ]
+}
